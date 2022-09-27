@@ -6,7 +6,7 @@
 
 [中文](./README-zh_CN.md)  [English](./README.md)
 
-Welcome to **CTF Wiki**！
+Welcome to **CTF Wiki**！！
 
 **CTF** (Capture The Flag) started from **DEFCON CTF**, a competitive game among computer security enthusiasts, originally hosted in 1996.
 
